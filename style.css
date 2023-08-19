@@ -92,11 +92,11 @@ nav button{
 }
 
 .header-content h1{
-  font-size: 22px;
+  font-size: 30px;
   line-height: 6;
   max-width: 6500px;
-  margin-bottom: -12%;
-  font-weight: 6000px;
+  margin-bottom: -10%;
+  font-weight: 600px;
 }
 
 .header-content h3{
@@ -125,9 +125,9 @@ nav button{
   border: 0;
   outline: 0;
   color: #fff;
-  font-size: 20px;
+  font-size: 15px;
   cursor: pointer;
-  space: 200%;
+  space: 100%;
 }
 
 
