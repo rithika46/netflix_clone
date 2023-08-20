@@ -130,6 +130,20 @@ nav button{
   space: 100%;
 }
 
+.features{
+  padding: 50px 12%;
+  font-size: 22px;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
+
+
 
 
 
